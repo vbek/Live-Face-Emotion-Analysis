@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Face%20Detection-green)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 A real-time computer vision project that detects human faces using **YOLOv8** and classifies their emotional state into 4 categories (**Angry, Happy, Sad, Surprise**) using deep learning. The system features a Tkinter-based GUI that allows users to switch between three different classification models in real-time.
 
