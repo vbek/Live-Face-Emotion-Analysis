@@ -1,23 +1,3 @@
-#Live Face & Emotion Analysis 🎭
-A real-time computer vision project that detects human faces using YOLOv8 and classifies their emotions using deep learning models (Custom CNN, ResNet18, or Lightweight ResNet). This system is designed to run efficiently on both CPU and GPU (CUDA), capable of processing live webcam feeds.
-
-🌟 Key Features
-Real-Time Detection: Utilizes ultralytics YOLOv8n-face for high-speed, accurate face detection.
-
-Multi-Model Support: Switch between three different architectures for emotion classification:
-
-Self Designed CNN: A lightweight 3-layer Convolutional Neural Network.
-
-ResNet18: A powerful, pre-trained residual network (requires 224x224 input).
-
-Lightweight ResNet: A vanilla implementation of ResNet optimized for speed.
-
-4-Class Emotion Recognition: Specialized in detecting: Angry, Happy, Sad, Surprise.
-
-Interactive UI: Includes a Tkinter-based GUI for live visualization with model switching capabilities.
-
-📂 Project Structure
-
 # Live Face & Emotion Analysis 🎭
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
